@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag1802&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1802" /> </p>
-<p align="center"><img src="https://api.daily.dev/devcards/v2/PgECr04Lg1AyctU5c2QtG.png?type=wide&r=0mz" width="652" alt="Anurag Mohanty's Dev Card"/></p>
+<p align="center"><a href="https://app.daily.dev/armohanty"><img src="https://api.daily.dev/devcards/v2/PgECr04Lg1AyctU5c2QtG.png?type=wide&r=zps" width="652" alt="Anurag Mohanty's Dev Card"/></a></p>
 
 - 🔭 I’m currently working on [portfolio-project](https://armohanty.com)
 
