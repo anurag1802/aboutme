@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/anurag1802/anurag1802/main/github-profile-banner.png)
 <h1 align="center">Hi 👋, I'm Anurag Mohanty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
